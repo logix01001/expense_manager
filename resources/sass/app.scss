@@ -1,0 +1,14 @@
+@import '~vuetify/dist/vuetify.min.css';
+
+@import '~@mdi\/font/css/materialdesignicons.min.css';
+
+@import '~izitoast/dist/css/iziToast.min.css';
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.cursor {
+    cursor: pointer;
+}
